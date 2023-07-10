@@ -7,11 +7,12 @@
     align-items: center;
     background-color: rgb(249, 211, 217);
     gap: 70px;
-    height: 500px;
+    height: 100vh;
     justify-content: space-around;
+
 }
 .banner-image{
-    width: 400px;
+    width: 655px;
     padding-right: 40px;
    
 }
