@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+.banner-container{
+    display: flex;
+    align-items: center;
+    background-color: rgb(249, 211, 217);
+    gap: 70px;
+    height: 500px;
+    justify-content: space-around;
+}
+.banner-image{
+    width: 400px;
+    padding-right: 40px;
+   
+}
+.banner-tittle{
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.banner-des{
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    
+
+}
+.par-des{
+    margin-bottom: 10px;
+    
+}
+.btn{
+    padding: 10px 20px;
+}
+.bg-btn{
+    background-color: rgb(231, 63, 63);
+}
