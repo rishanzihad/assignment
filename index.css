@@ -184,6 +184,24 @@ margin-top: 100px;
 .four-par{
     color: rgb(122, 112, 112);
 }
+.part-five{
+    height: 50vh;
+}
+.five-container{
+    text-align: center;
+    padding-top:130px ;
+    
+}
+.five-tittle{
+    font-size: 40px;
+}
+.five-par{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.five-two{
+    margin: 20px;
+}
 span{
     color: red;
 }
