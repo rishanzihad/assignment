@@ -6,25 +6,25 @@
     display: flex;
     align-items: center;
     background-color: rgb(249, 211, 217);
-    gap: 70px;
+    gap: 0px;
     height: 700px;
-    justify-content: space-around;
-    width: 100%;
+    width: 1440px;
+    margin-left: 0;
 
 }
 .banner-image{
-    width: 350px;
+    width: 600px;
     height: 700px;
     padding-right: 40px;
    
 }
 .banner-tittle{
-    font-size: 35px;
+    font-size: 65px;
     margin-bottom: 10px;
     
 }
 .banner-des{
-    padding: 30px;
+    padding: 90px;
     text-align: center;
     margin: auto;
     width: 50%;
@@ -32,14 +32,24 @@
 
 }
 .par-des{
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    width:420px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 20px;
+    
     
 }
 .btn{
     padding: 10px 20px;
+    border-radius: 4px;
 }
 .bg-btn{
-    background-color: rgb(231, 63, 63);
+    background-color: rgb(226, 69, 69);
+}
+.btn:hover{
+    cursor: pointer;
+    color: antiquewhite;
 }
 .one-tittle{
     text-align: center;
@@ -48,7 +58,7 @@
 .part-one{
     margin-top: 120px;
     width: 100%;
-    height: 100vh;
+    height: 80vh;
 }
 .p-one{
     text-align: center;
@@ -58,47 +68,47 @@
     gap: 50px;
     align-items: center;
     padding:  30px 160px;
-    margin: auto;
+    margin-left: 80px;
     
 }
 .flower-image-one{
-    width: 300px;
+    width: 200px;
     border: 1px solid rgb(224, 58, 88);
     border-radius: 300px 300px 0px 0px;
-    padding: 10px 10px 0px 10px;
+    padding: 40px 40px 0px 40px;
     background-color: rgb(249, 208, 215);
-    height: 400px;
+    height: 300px;
 }
 .flower-image-two{
-    width: 300px;
+    width: 200px;
     border: 1px solid rgb(25, 19, 20);
     border-radius: 300px 300px 0px 0px;
-    padding: 10px 10px 0px 10px;
+    padding: 40px 40px 0px 40px;
     background-color: rgb(171, 105, 116);
-    height: 400px;
+    height: 300px;
 }
 .flower-image-three{
-    width: 300px;
+    width: 200px;
     border: 1px solid rgb(208, 101, 20);
     border-radius: 300px 300px 0px 0px;
-    padding: 10px 10px 0px 10px;
+    padding: 40px 40px 0px 40px;
     background-color: rgb(209, 207, 116);
-    height: 400px;
+    height: 300px;
 }
 .flower-one{
    text-align: center; 
    text-decoration: underline;
-   font-size: 20px;
+   font-size: 25px;
 }
 .flower-two{
    text-align: center; 
    text-decoration: underline;
-   font-size: 20px;
+   font-size: 25px;
 }
 .flower-three{
    text-align: center; 
    text-decoration: underline;
-   font-size: 20px;
+   font-size: 25px;
 }
 .flower-container{
     padding: 30px;
@@ -106,15 +116,71 @@
 .part-two{
     width: 80%;
     background-color: rgb(212, 223, 234);
-    margin: auto;
-    height: 150px;
+    margin: 0 auto ;
+    height: 250px;
     border-radius: 5px;
-    margin-top: 130px;
+    
+    
 }
 .support-container{
     display: flex;
     align-items: center;
     text-align: center;
+    
+    padding: 70px;
+}
+.part-three{
+width: 1440px;
+margin-top: 100px;
+}
+.part-three-container{
+    display: flex;
+    align-items: center;
+    background-color: rgb(254, 235, 238);
+    text-align: center;
     justify-content: space-around;
-    padding: 20px;
+    height: 60vh;
+    margin-top: 60px;
+}
+.part-three-des{
+    padding: 100px 0px 0px 0px;
+}
+.part-three-tittle{
+    font-size: 40px;
+    width: 600px;
+    margin-bottom: 10px;
+}
+.img-three{
+    width: 250px;
+    height: 350px;
+    padding: 90px 150px 0px 0px;
+}
+.des-three{
+    margin-bottom: 30px;
+    color: rgb(133, 132, 132);
+    text-align: center;
+    width: 400px;
+    margin-left: 90px;
+}
+.four-tittle{
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+.four-images{
+    width: 75%;
+    display: flex;
+    margin:auto;
+    gap: 30px;
+}
+.four-image{
+    width: 250px;
+    
+}
+.four-head{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.four-par{
+    color: rgb(122, 112, 112);
 }
