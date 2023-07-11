@@ -184,3 +184,23 @@ margin-top: 100px;
 .four-par{
     color: rgb(122, 112, 112);
 }
+span{
+    color: red;
+}
+
+footer{
+    background-color: rgb(10, 10, 10);
+    height: 50vh;
+}
+.footer-container{
+    text-align: center;
+}
+.footer-tittle{
+    font-size: 40px;
+    color: azure;
+    padding: 130px 0px 0px 0px;
+}
+.footer-par{
+    color: aliceblue;
+    margin-top: 20px;
+}
