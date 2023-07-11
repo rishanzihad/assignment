@@ -162,6 +162,9 @@ margin-top: 100px;
     width: 400px;
     margin-left: 90px;
 }
+.part-four{
+    margin-bottom: 90px;
+}
 .four-tittle{
     text-align: center;
     margin-top: 120px;
@@ -186,11 +189,22 @@ margin-top: 100px;
 }
 .part-five{
     height: 50vh;
+    margin-bottom: 90px;
 }
 .five-container{
     text-align: center;
-    padding-top:130px ;
-    
+    height: 50vh;
+    background-image: url('flower asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    background-size: cover;
+    width: 80%;
+    margin: auto;
+    border-radius: 5px;
+
+}
+.five-one{
+    padding-top: 100px;
 }
 .five-tittle{
     font-size: 40px;
